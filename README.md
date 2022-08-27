@@ -20,3 +20,5 @@
   <a href="https://www.instagram.com/samuel_tx_32/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   <img align="right" alt="Samu-gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
