@@ -21,4 +21,4 @@
 </div>
   <img align="right" alt="Samu-gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/SamucaDev/SamucaDev/blob/output/github-contribution-grid-snake.svg)
