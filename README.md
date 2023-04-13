@@ -27,7 +27,7 @@ Participo da HeartDevelopers contribuindo com criação de conteúdos Tech e aju
 
 - Hoje trabalho na Minu.co como desenvolvedor Fullstack, com as stacks NextJs e Node, trabalhando em iniciativas de arquitetura e novas soluções. 
 
-- Sobre Hobbies, pratico Jiu Jitsu e no tempo livre gosto de Jogos como CS:GO e Age of Empires.
+- Sobre Hobbies, pratico Jiu Jitsu e no tempo livre gosto de jogar um bom CS:GO e Age of Empires.
 
 ## Contatos
 
