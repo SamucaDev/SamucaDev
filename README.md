@@ -6,7 +6,7 @@ Meu nome é Samuel Rodrigues, Desenvolvedor FullStack, atualmente moro no Brazil
 
 Atualmente estou focando no desenvolvimento utilizando NextJs e Node, realizando testes e melhorias junto a comunidade, produzindo artigos e publicações sobre o tema. Também estou ativamente em forums discutindo sobre padrões de projetos e arquitetura de software.
 
-Participo da HeartDevelopers contribuindo com criação de conteúdos Tech e ajudando pessoa que estão ingressando no mercado de desenvolvimento. 
+Participo da HeartDevelopers contribuindo com criação de conteúdos Tech e ajudando pessoas que estão ingressando no mercado de desenvolvimento. 
 
 ## Informações
 
