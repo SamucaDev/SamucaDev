@@ -1,35 +1,35 @@
-# Olá, muito prazer em te receber aqui!
+# Hello, nice to meet you here!
 
-## Sobre mim
+## About me
 
-Meu nome é Samuel Rodrigues, Desenvolvedor FullStack, atualmente moro no Brazil e tenho 21 anos.
+My name is Samuel Rodrigues, FullStack Developer, currently living in Brazil and I am 21 years old.
 
-Atualmente estou focando no desenvolvimento utilizando NextJs e Node, realizando testes e melhorias junto a comunidade, produzindo artigos e publicações sobre o tema. Também estou ativamente em forums discutindo sobre padrões de projetos e arquitetura de software.
+Currently, I am focusing on development using NextJs and Node, conducting tests and improvements with the community, producing articles and publications on the subject. I am also actively participating in forums discussing software architecture and design patterns.
 
-Participo da HeartDevelopers contribuindo com criação de conteúdos Tech e ajudando pessoas que estão ingressando no mercado de desenvolvimento. 
+I am a member of HeartDevelopers, contributing to the creation of tech content and helping people who are entering the development market.
 
-## Informações
+## Information
 
-* **Nome**: Samuel Rodrigues
-* **Idade**: 21
-* **Localização**: SP, Brazil
+* **Name**: Samuel Rodrigues
+* **Age**: 21
+* **Location**: SP, Brazil
 * **Stack**: NextJs - Node - PHP - Graphql - SQL - Laravel - TS
-* **Faculdade**: Sistemas de informação - FIAP, Desenvolvimento de sistemas - FITO
-* **Empresa:** Desenvolvedor Minu.co 
+* **College**: Information Systems - FIAP, Systems Development - FITO
+* **Company**: Developer at Minu.co 
 
-## Curiosidades
+## Fun facts
 
-- Meu primeiro contato com programação foi em 2015, no início do meu ensino médio, onde tive a oportunidade de conhecer uma pessoa que abriu meus olhos para este mundo, [Kao Ming](https://www.escavador.com/sobre/3561806/kao-yung-ming), meu mestre e professor de lógica de programação, que me ajudou a ingressar neste mundo.
-  
-- Durante meu ensino médio, junto ao meu grupo, desenvolvemos um projeto voltado a Saúde Mental, Projeto Somos, que teve como objetivo conectar Profissionais de saúde mental com pessoas que precisam de ajuda e não tem condições de pagar uma terapia, o projeto impactou muitas pessoas e sentir que nosso projeto contribuiu na vida de pessoas foi o suficiente para eu me apaixonar por esta área.  
+- My first contact with programming was in 2015, at the beginning of my high school, where I had the opportunity to meet someone who opened my eyes to this world, [Kao Ming](https://www.escavador.com/sobre/3561806/kao-yung-ming), my teacher and professor of programming logic, who helped me to enter this world.
 
-- Meu inicio no mercado de trabalho não foi fácil, participei de diversos processos seletivos, poucos com sucesso e os que eu conseguia passar era cancelado por não ter completado 18 anos, porém em 2019 recebi meu primeiro SIM para trabalhar como Desenvolvedor FullStack na Wiplay, para trabalhar com Vue e Laravel.
+- During my high school years, together with my group, we developed a project focused on Mental Health, Project Somos, which aimed to connect Mental Health professionals with people who need help and cannot afford therapy. The project impacted many people, and feeling that our project contributed to people's lives was enough for me to fall in love with this area.
 
-- Hoje trabalho na Minu.co como desenvolvedor Fullstack, com as stacks NextJs e Node, trabalhando em iniciativas de arquitetura e novas soluções. 
+- My start in the job market was not easy. I participated in several selection processes, few with success, and those I could pass were canceled because I had not turned 18 yet. However, in 2019 I received my first YES to work as a FullStack Developer at Wiplay, working with Vue and Laravel.
 
-- Sobre Hobbies, pratico Jiu Jitsu e no tempo livre gosto de jogar um bom CS:GO e Age of Empires.
+- Today I work at Minu.co as a FullStack Developer, with NextJs and Node stacks, working on architecture initiatives and new solutions.
 
-## Contatos
+- As for hobbies, I practice Jiu Jitsu and in my free time, I enjoy playing a good game of CS:GO and Age of Empires.
+
+## Contacts
 
 <div>
     <a target='_blank' href="https://twitter.com/samucadev">
@@ -43,6 +43,6 @@ Participo da HeartDevelopers contribuindo com criação de conteúdos Tech e aju
     </a>
 </div>
 
-## Artigos 
+## Articles
 
-- [Para entender o que é Mobile First, basta traduzir?](https://dev.to/samucadev/para-entender-o-que-e-mobile-first-basta-traduzir-4dlo)
+- [To understand what Mobile First means, is it enough to translate?](https://dev.to/samucadev/para-entender-o-que-e-mobile-first-basta-traduzir-4dlo)
