@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Samuel Rodrigues, FullStack Developer, currently living in Brazil and I am 21 years old.
+My name is Samuel Rodrigues, FullStack Developer, currently living in Brazil.
 
 Currently, I am focusing on development using NextJs and Node, conducting tests and improvements with the community, producing articles and publications on the subject. I am also actively participating in forums discussing software architecture and design patterns.
 
