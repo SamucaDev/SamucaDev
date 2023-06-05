@@ -11,7 +11,6 @@ I am a member of HeartDevelopers, contributing to the creation of tech content a
 ## Information
 
 * **Name**: Samuel Rodrigues
-* **Age**: 21
 * **Location**: SP, Brazil
 * **Stack**: NextJs - Node - PHP - Graphql - SQL - Laravel - TS
 * **College**: Information Systems - FIAP, Systems Development - FITO
