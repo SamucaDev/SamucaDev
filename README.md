@@ -1,34 +1,39 @@
-# Hello, nice to meet you here!
+# Hello, nice to meet you here! 👋
 
-## About me
+## About me  
 
-My name is Samuel Rodrigues, FullStack Developer, currently living in Brazil.
+My name is **Samuel Rodrigues**, Full Stack Developer currently living in **Dublin, Ireland**.  
 
-Currently, I am focusing on development using NextJs and Node, conducting tests and improvements with the community, producing articles and publications on the subject. I am also actively participating in forums discussing software architecture and design patterns.
+I focus on building **scalable and innovative web applications** using **React, Next.js, Node.js, and PHP**. I enjoy discussing **software architecture, clean code practices, and design patterns**, sharing knowledge through articles, mentoring, and tech communities.  
 
-I am a member of HeartDevelopers, contributing to the creation of tech content and helping people who are entering the development market.
+I am also a member of **HeartDevelopers**, contributing to tech content creation and helping new developers grow in their careers.  
 
-## Information
+---
 
-* **Name**: Samuel Rodrigues
-* **Location**: SP, Brazil
-* **Stack**: NextJs - Node - PHP - Graphql - SQL - Laravel - TS
-* **College**: Information Systems - FIAP, Systems Development - FITO
-* **Company**: Developer at Minu.co 
+## Information  
 
-## Fun facts
+* **Name**: Samuel Rodrigues  
+* **Location**: Dublin, Ireland  
+* **Stack**: React – Next.js – Node.js – PHP – GraphQL – SQL – Laravel – TypeScript  
+* **College**:  
+   - Master of Science in Computing – Griffith College (Ireland)  
+   - Bachelor’s in Computer Information Systems – FIAP (Brazil)  
+   - Technical Diploma in Systems Development – FITO (Brazil)  
+* **Website**: [samuelrodrigues.dev](https://samuelrodrigues.dev)  
 
-- My first contact with programming was in 2015, at the beginning of my high school, where I had the opportunity to meet someone who opened my eyes to this world, [Kao Ming](https://www.escavador.com/sobre/3561806/kao-yung-ming), my teacher and professor of programming logic, who helped me to enter this world.
+---
 
-- During my high school years, together with my group, we developed a project focused on Mental Health, Project Somos, which aimed to connect Mental Health professionals with people who need help and cannot afford therapy. The project impacted many people, and feeling that our project contributed to people's lives was enough for me to fall in love with this area.
+## Fun facts  
 
-- My start in the job market was not easy. I participated in several selection processes, few with success, and those I could pass were canceled because I had not turned 18 yet. However, in 2019 I received my first YES to work as a FullStack Developer at Wiplay, working with Vue and Laravel.
+- My first contact with programming was back in 2015, at the beginning of high school, thanks to my teacher [Kao Ming](https://www.escavador.com/sobre/3561806/kao-yung-ming), who introduced me to programming logic and inspired me to follow this path.  
+- During high school, I co-created **Project Somos**, focused on mental health, connecting professionals with people who couldn’t afford therapy. The impact it generated made me fall in love with technology’s power to change lives.  
+- Entering the job market was not easy — I faced many rejections and some opportunities were canceled because I was under 18. But in 2019, I finally received my first **YES** to work as a Full Stack Developer.  
+- Today, after more than 7 years of experience, I work with **React, Node, and scalable architectures**, constantly improving systems and helping businesses deliver better solutions.  
+- Outside of coding, I practice **Jiu Jitsu 🥋** and enjoy engaging with the dev community.  
 
-- Today I work at Minu.co as a FullStack Developer, with NextJs and Node stacks, working on architecture initiatives and new solutions.
+---
 
-- As for hobbies, I practice Jiu Jitsu and in my free time.
-
-## Contacts
+## Contacts  
 
 <div>
     <a target='_blank' href="https://twitter.com/samucadev">
@@ -40,8 +45,13 @@ I am a member of HeartDevelopers, contributing to the creation of tech content a
     <a target='_blank' href="https://dev.to/samucadev">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
-</div>
+    <a target='_blank' href="https://samuelrodrigues.dev">
+        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    </a>
+</div>  
 
-## Articles
+---
 
-- [To understand what Mobile First means, is it enough to translate?](https://dev.to/samucadev/para-entender-o-que-e-mobile-first-basta-traduzir-4dlo)
+## Articles  
+
+- [To understand what Mobile First means, is it enough to translate?](https://dev.to/samucadev/para-entender-o-que-e-mobile-first-basta-traduzir-4dlo)  
